@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-1",
+        "from": "chengdu",
+        "to": "jiagenba",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            104.06667,
+            30.66667
+          ],
+          [
+            101.58858,
+            29.84597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-2",
+        "from": "jiagenba",
+        "to": "xinduqiao",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.58858,
+            29.84597
+          ],
+          [
+            101.48876,
+            30.04525
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-2",
+        "from": "xinduqiao",
+        "to": "yajiang",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.48876,
+            30.04525
+          ],
+          [
+            101.01345,
+            30.03477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-2",
+        "from": "yajiang",
+        "to": "litang",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.01345,
+            30.03477
+          ],
+          [
+            100.2694,
+            29.98814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-2",
+        "from": "litang",
+        "to": "daocheng",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.2694,
+            29.98814
+          ],
+          [
+            100.29694,
+            29.03921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-3",
+        "from": "yading",
+        "to": "daocheng",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.338,
+            28.4556
+          ],
+          [
+            100.29694,
+            29.03921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-4",
+        "from": "daocheng",
+        "to": "litang",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.29694,
+            29.03921
+          ],
+          [
+            100.2694,
+            29.98814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-4",
+        "from": "litang",
+        "to": "yajiang",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.2694,
+            29.98814
+          ],
+          [
+            101.01345,
+            30.03477
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-5",
+        "from": "yajiang",
+        "to": "tagong",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.01345,
+            30.03477
+          ],
+          [
+            101.53058,
+            30.32389
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-5",
+        "from": "tagong",
+        "to": "rilong",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            101.53058,
+            30.32389
+          ],
+          [
+            102.82925,
+            30.99537
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-6",
+        "from": "rilong",
+        "to": "shuangqiao-ref",
+        "mode": "mixed",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.82925,
+            30.99537
+          ],
+          [
+            102.77,
+            30.9877
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-7",
+        "from": "hongyuan",
+        "to": "zhangzha",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.54293,
+            32.79272
+          ],
+          [
+            103.86495,
+            33.29597
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-8",
+        "from": "zhangzha",
+        "to": "shuzheng",
+        "mode": "mixed",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.86495,
+            33.29597
+          ],
+          [
+            103.889,
+            33.2012
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "dayId": "day-9",
+        "from": "zhangzha",
+        "to": "tianfu",
+        "mode": "drive",
+        "verified": false,
+        "basis": "地点间的行程连线示意，不是道路或步道轨迹"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.86495,
+            33.29597
+          ],
+          [
+            104.445,
+            30.31767
+          ]
+        ]
+      }
+    }
+  ]
+}

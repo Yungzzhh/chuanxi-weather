@@ -1,0 +1,854 @@
+{
+  "schemaVersion": 1,
+  "id": "chuanxi-nine-day-2026-10-31",
+  "routeId": "chuanxi-nine-day-original",
+  "title": "亚丁 · 四姑娘山 · 九寨沟",
+  "province": "四川",
+  "region": "川西南 · 川北",
+  "themes": [
+    "自驾旅行",
+    "高山湖泊",
+    "秋季摄影"
+  ],
+  "timezone": "Asia/Shanghai",
+  "variant": "custom",
+  "requirements": "沿用已确认的2026-10-31至2026-11-08九日原行程，结合每日实际地点提供天气预测。保持原路线与住宿；缺少定位的节点保留空缺。",
+  "constraints": {
+    "allowCamping": false
+  },
+  "createdAt": "2026-10-28T15:42:56.125306+08:00",
+  "itinerarySource": "用户于2026-10-28确认的川西九日原行程",
+  "itineraryConfirmedAt": "2026-10-28T15:42:56.125306+08:00",
+  "assumptions": [
+    "用户本轮确认沿用九日原路线，10月30日成都入住仅作行前背景，未加入九日表。",
+    "未提供具体每日时刻、酒店、航班或GPX；到达/离开时间均为天气匹配用的规划假设，用户可编辑。",
+    "GeoNames地名点并非实测住宿位置；村镇、景区内部和山口天气严格区分。",
+    "保留姊妹湖往返、亚丁后住稻城、经红原等原安排；此前删改建议未混入。",
+    "无精确道路轨迹；地图路径仅为虚线节点示意，未定位处断线。",
+    "未可靠定位的香格里拉镇、景区内部、姊妹湖、毛娅草原、理小路保留为空缺；不取同名异地或邻城替代。",
+    "11月5日至8日距查询日超过7天，仅作远期趋势；本次不使用历史天气填补未来数据。"
+  ],
+  "access": {
+    "status": "unconfirmed",
+    "checkedAt": "2026-10-28",
+    "sourceUrl": "https://www.sgns.cn/understand/sqg",
+    "note": "本轮成功读取双桥沟官网介绍及九寨沟官网；未取得覆盖2026-10-31—11-08全程的逐路段管制资料。待确认理小路起终点与冬季管制、姊妹湖G318路段状态、亚丁内部线路运营、双桥沟当日项目。亚丁所尝试官网TLS校验失败，未绕过。天气预报不证明道路或景区开放。"
+  },
+  "sources": [
+    {
+      "title": "用户既有九日行程，2026-10-28本轮再次确认",
+      "url": "plan.json",
+      "kind": "user",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "title": "Open-Meteo地理编码，数据来源GeoNames；逐点URL保存在places.source",
+      "url": "https://open-meteo.com/en/docs/geocoding-api",
+      "kind": "geocoding",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "title": "四姑娘山官网：双桥沟地形、景点与海拔差",
+      "url": "https://www.sgns.cn/understand/sqg",
+      "kind": "official",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "title": "九寨沟景区官方网站",
+      "url": "https://www.jiuzhai.com/",
+      "kind": "official",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "title": "Open-Meteo预报接口、变量与WMO编码",
+      "url": "https://open-meteo.com/en/docs",
+      "kind": "weather",
+      "checkedAt": "2026-10-28"
+    }
+  ],
+  "places": {
+    "chengdu": {
+      "name": "成都",
+      "lat": 30.66667,
+      "lon": 104.06667,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=Chengdu&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "成都市地名采样坐标，非酒店或取车门店。",
+      "geonamesId": 1815286,
+      "coordinateEvidence": {
+        "id": 1815286,
+        "name": "成都",
+        "latitude": 30.66667,
+        "longitude": 104.06667,
+        "elevation": 499.0,
+        "feature_code": "PPLA",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1815285,
+        "timezone": "Asia/Shanghai",
+        "population": 20937757,
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "成都市"
+      }
+    },
+    "jiagenba": {
+      "name": "甲根坝",
+      "lat": 29.84597,
+      "lon": 101.58858,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E7%94%B2%E6%A0%B9%E5%9D%9D&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "GeoNames甲根坝地名采样点；未取得你的民宿定位，不代表整片河谷、民宿或山口。",
+      "geonamesId": 6976290,
+      "coordinateEvidence": {
+        "id": 6976290,
+        "name": "甲根坝",
+        "latitude": 29.84597,
+        "longitude": 101.58858,
+        "elevation": 3645.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1810269,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "甘孜藏族自治州"
+      }
+    },
+    "xinduqiao": {
+      "name": "新都桥",
+      "lat": 30.04525,
+      "lon": 101.48876,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E6%96%B0%E9%83%BD%E6%A1%A5&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "新都桥镇地名坐标，不代表折多山等沿途高处。",
+      "geonamesId": 1789093,
+      "coordinateEvidence": {
+        "id": 1789093,
+        "name": "新都桥",
+        "latitude": 30.04525,
+        "longitude": 101.48876,
+        "elevation": 3469.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1810269,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "甘孜藏族自治州"
+      }
+    },
+    "yajiang": {
+      "name": "雅江·河口镇",
+      "lat": 30.03477,
+      "lon": 101.01345,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E6%B2%B3%E5%8F%A3&count=100&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "采用甘孜州河口镇地名点，作为雅江县城节点；非同名的重庆雅江。",
+      "geonamesId": 1808573,
+      "coordinateEvidence": {
+        "id": 1808573,
+        "name": "河口",
+        "latitude": 30.03477,
+        "longitude": 101.01345,
+        "elevation": 2648.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1810269,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "甘孜藏族自治州"
+      }
+    },
+    "litang": {
+      "name": "理塘·高城镇",
+      "lat": 29.98814,
+      "lon": 100.2694,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E9%AB%98%E5%9F%8E&count=100&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "理塘县城高城镇地名点；不是毛垭草原、海子山或姊妹湖。",
+      "geonamesId": 1810604,
+      "coordinateEvidence": {
+        "id": 1810604,
+        "name": "高城",
+        "latitude": 29.98814,
+        "longitude": 100.2694,
+        "elevation": 3935.0,
+        "feature_code": "PPLA3",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1810269,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "甘孜藏族自治州"
+      }
+    },
+    "daocheng": {
+      "name": "稻城·金珠镇",
+      "lat": 29.03921,
+      "lon": 100.29694,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E9%87%91%E7%8F%A0&count=100&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "稻城县城金珠镇地名点，不代表亚丁景区或香格里拉镇。",
+      "geonamesId": 6547110,
+      "coordinateEvidence": {
+        "id": 6547110,
+        "name": "金珠",
+        "latitude": 29.03921,
+        "longitude": 100.29694,
+        "elevation": 3747.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1810269,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "甘孜藏族自治州"
+      }
+    },
+    "yading": {
+      "name": "亚丁村地名点",
+      "lat": 28.4556,
+      "lon": 100.338,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=Yading&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "GeoNames亚丁地名坐标，位于稻城亚丁区域；只供村落区域参考，不代表冲古寺、洛绒牛场、牛奶海或五色海。",
+      "geonamesId": 10211775,
+      "coordinateEvidence": {
+        "id": 10211775,
+        "name": "亚丁",
+        "latitude": 28.4556,
+        "longitude": 100.338,
+        "elevation": 3969.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1810269,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "甘孜藏族自治州"
+      }
+    },
+    "tagong": {
+      "name": "塔公",
+      "lat": 30.32389,
+      "lon": 101.53058,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E5%A1%94%E5%85%AC&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "采用康定新都桥以北塔公地名点，已排除甘孜州西侧另一同名点。",
+      "geonamesId": 1804125,
+      "coordinateEvidence": {
+        "id": 1804125,
+        "name": "塔公",
+        "latitude": 30.32389,
+        "longitude": 101.53058,
+        "elevation": 3741.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1810269,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "甘孜藏族自治州"
+      }
+    },
+    "rilong": {
+      "name": "四姑娘山镇（日隆）",
+      "lat": 30.99537,
+      "lon": 102.82925,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E6%97%A5%E9%9A%86&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "采用日隆地名坐标；只代表镇区，不能替代双桥沟红杉林的高处天气。",
+      "geonamesId": 6999083,
+      "coordinateEvidence": {
+        "id": 6999083,
+        "name": "日隆",
+        "latitude": 30.99537,
+        "longitude": 102.82925,
+        "elevation": 3166.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1818175,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "阿坝藏族羌族自治州"
+      }
+    },
+    "shuangqiao-ref": {
+      "name": "双桥地名点",
+      "lat": 30.9877,
+      "lon": 102.77,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=Shuangqiao&count=100&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "GeoNames小金县附近双桥聚落地名点；作为单列参考坐标，不等同双桥沟全沟或红杉林。",
+      "geonamesId": 10198611,
+      "coordinateEvidence": {
+        "id": 10198611,
+        "name": "双桥",
+        "latitude": 30.9877,
+        "longitude": 102.77,
+        "elevation": 3178.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1818175,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "阿坝藏族羌族自治州"
+      }
+    },
+    "hongyuan": {
+      "name": "红原·邛溪镇",
+      "lat": 32.79272,
+      "lon": 102.54293,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E9%82%9B%E6%BA%AA&count=100&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "红原县城邛溪镇地名点；不代表理小路垭口或沿途路面温度。",
+      "geonamesId": 1797537,
+      "coordinateEvidence": {
+        "id": 1797537,
+        "name": "邛溪",
+        "latitude": 32.79272,
+        "longitude": 102.54293,
+        "elevation": 3493.0,
+        "feature_code": "PPLA3",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1818175,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "阿坝藏族羌族自治州"
+      }
+    },
+    "zhangzha": {
+      "name": "九寨沟·漳扎镇",
+      "lat": 33.29597,
+      "lon": 103.86495,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=%E6%BC%B3%E6%89%8E&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "九寨沟景区外漳扎镇地名点；不是九寨沟县城，也不是景区全域天气。",
+      "geonamesId": 1793060,
+      "coordinateEvidence": {
+        "id": 1793060,
+        "name": "漳扎",
+        "latitude": 33.29597,
+        "longitude": 103.86495,
+        "elevation": 2089.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1818175,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "阿坝藏族羌族自治州"
+      }
+    },
+    "shuzheng": {
+      "name": "九寨沟·树正地名点",
+      "lat": 33.2012,
+      "lon": 103.889,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=Shuzheng&count=100&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "GeoNames树正地名采样坐标；范围和精度以原始地名库为准，不代表长海、五彩池等高处，不作为精确导航点。",
+      "geonamesId": 10140510,
+      "coordinateEvidence": {
+        "id": 10140510,
+        "name": "树正",
+        "latitude": 33.2012,
+        "longitude": 103.889,
+        "elevation": 2492.0,
+        "feature_code": "PPL",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1818175,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "阿坝藏族羌族自治州"
+      }
+    },
+    "tianfu": {
+      "name": "成都天府国际机场",
+      "lat": 30.31767,
+      "lon": 104.445,
+      "source": "https://geocoding-api.open-meteo.com/v1/search?name=Chengdu+Tianfu+International+Airport&count=10&language=zh&format=json",
+      "coordinateStatus": "mapped",
+      "checkedAt": "2026-10-28",
+      "coordinateNote": "机场地名坐标，不表示航班或还车时间已经确认。",
+      "geonamesId": 12122632,
+      "coordinateEvidence": {
+        "id": 12122632,
+        "name": "成都天府國際機場",
+        "latitude": 30.31767,
+        "longitude": 104.445,
+        "elevation": 438.0,
+        "feature_code": "AIRP",
+        "country_code": "CN",
+        "admin1_id": 1794299,
+        "admin2_id": 1815285,
+        "admin3_id": 1806119,
+        "timezone": "Asia/Shanghai",
+        "country_id": 1814991,
+        "country": "中国",
+        "admin1": "四川",
+        "admin2": "成都市",
+        "admin3": "Jianyang County"
+      }
+    },
+    "shangrila": {
+      "name": "香格里拉镇（稻城）",
+      "lat": null,
+      "lon": null,
+      "source": "user",
+      "coordinateStatus": "unresolved",
+      "coordinateNote": "稻城县香格里拉镇，原称日瓦；本轮未取得足够可靠的具体坐标。明确排除云南香格里拉市，不请求替代预报。",
+      "checkedAt": "2026-10-28"
+    },
+    "yading-scenic": {
+      "name": "亚丁景区游览点",
+      "lat": null,
+      "lon": null,
+      "source": "user",
+      "coordinateStatus": "unresolved",
+      "coordinateNote": "原计划仅写亚丁全天，未确认冲古寺、洛绒牛场或两海路线。未定位具体活动点，不以亚丁村天气替代。",
+      "checkedAt": "2026-10-28"
+    },
+    "maoya": {
+      "name": "毛娅大草原",
+      "lat": null,
+      "lon": null,
+      "source": "user",
+      "coordinateStatus": "unresolved",
+      "coordinateNote": "原行程区域名称，亦作毛垭；停车点/入口未提供，无法核实本次实际坐标，不用理塘县城代替。",
+      "checkedAt": "2026-10-28"
+    },
+    "jiemeihu": {
+      "name": "姊妹湖",
+      "lat": null,
+      "lon": null,
+      "source": "user",
+      "coordinateStatus": "unresolved",
+      "coordinateNote": "指理塘以西G318方向姊妹湖，保留西行再折返；本轮地图接口未能提供可追溯坐标，不用另一湖泊代替。",
+      "checkedAt": "2026-10-28"
+    },
+    "shuangqiaogou": {
+      "name": "双桥沟景区游览点",
+      "lat": null,
+      "lon": null,
+      "source": "user",
+      "coordinateStatus": "unresolved",
+      "coordinateNote": "原行程为双桥沟全天，但具体景点未定且未取得红杉林等内部节点坐标。沟口约2900米、沟尾约3840米为官网描述，不能以镇区预报覆盖整沟。",
+      "checkedAt": "2026-10-28"
+    },
+    "lixiaolu": {
+      "name": "理小路（起终点待定）",
+      "lat": null,
+      "lon": null,
+      "source": "user",
+      "coordinateStatus": "unresolved",
+      "coordinateNote": "理小路是道路段，原表未明确入口、出口和拟停点；整段不抽象成一个坐标，不计算其天气。",
+      "checkedAt": "2026-10-28"
+    },
+    "jiuzhai-scenic": {
+      "name": "九寨沟景区游览点",
+      "lat": null,
+      "lon": null,
+      "source": "user",
+      "coordinateStatus": "unresolved",
+      "coordinateNote": "原行程为景区全天，具体游览顺序和高处节点未确认。漳扎与树正参考点单列，不声称代表全景区。",
+      "checkedAt": "2026-10-28"
+    }
+  },
+  "days": [
+    {
+      "id": "day-1",
+      "date": "2026-10-31",
+      "title": "成都 → 甲根坝",
+      "shortTitle": "甲根坝",
+      "stops": [
+        {
+          "placeId": "chengdu",
+          "arrival": "08:00",
+          "departure": "09:00",
+          "mode": "drive"
+        },
+        {
+          "placeId": "jiagenba",
+          "arrival": "15:00",
+          "departure": "18:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "甲根坝民宿（精确位置待提供）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "jiagenba",
+      "note": "原表约6小时驾驶；出发、抵达时刻为天气采样假设，非导航核算。"
+    },
+    {
+      "id": "day-2",
+      "date": "2026-11-01",
+      "title": "甲根坝 → 新都桥 → 香格里拉镇",
+      "shortTitle": "新都桥",
+      "stops": [
+        {
+          "placeId": "jiagenba",
+          "arrival": "08:00",
+          "departure": "09:00",
+          "mode": "drive"
+        },
+        {
+          "placeId": "xinduqiao",
+          "arrival": "09:50",
+          "departure": "10:20",
+          "mode": "drive"
+        },
+        {
+          "placeId": "yajiang",
+          "arrival": "12:00",
+          "departure": "12:20",
+          "mode": "drive"
+        },
+        {
+          "placeId": "litang",
+          "arrival": "15:00",
+          "departure": "15:20",
+          "mode": "drive"
+        },
+        {
+          "placeId": "daocheng",
+          "arrival": "17:00",
+          "departure": "17:20",
+          "mode": "drive"
+        },
+        {
+          "placeId": "shangrila",
+          "arrival": "19:00",
+          "departure": "20:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "稻城香格里拉镇（酒店待定位）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "xinduqiao",
+      "note": "保留原路线。雅江、理塘、稻城为沿途采样点；原表驾驶合计约8小时50分—9小时20分，假定时刻不证明可执行或适合夜间行车。"
+    },
+    {
+      "id": "day-3",
+      "date": "2026-11-02",
+      "title": "亚丁全天 → 稻城县城",
+      "shortTitle": "亚丁",
+      "stops": [
+        {
+          "placeId": "shangrila",
+          "arrival": "07:00",
+          "departure": "07:20",
+          "mode": "drive"
+        },
+        {
+          "placeId": "yading",
+          "arrival": "08:00",
+          "departure": "08:20",
+          "mode": "mixed"
+        },
+        {
+          "placeId": "yading-scenic",
+          "arrival": "09:00",
+          "departure": "16:00",
+          "mode": "mixed"
+        },
+        {
+          "placeId": "yading",
+          "arrival": "16:20",
+          "departure": "16:40",
+          "mode": "mixed"
+        },
+        {
+          "placeId": "daocheng",
+          "arrival": "18:00",
+          "departure": "20:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "稻城县城（金珠镇，酒店待定位）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "yading",
+      "note": "亚丁村为单列地名参考，不代替景区内部预报；徒步线路、里程和两海开放未确认。保留原定住稻城县城。"
+    },
+    {
+      "id": "day-4",
+      "date": "2026-11-03",
+      "title": "稻城 → 毛娅大草原 → 姊妹湖 → 理塘 → 雅江",
+      "shortTitle": "姊妹湖",
+      "stops": [
+        {
+          "placeId": "daocheng",
+          "arrival": "07:00",
+          "departure": "07:15",
+          "mode": "drive"
+        },
+        {
+          "placeId": "litang",
+          "arrival": "09:00",
+          "departure": "09:15",
+          "mode": "drive"
+        },
+        {
+          "placeId": "maoya",
+          "arrival": "10:00",
+          "departure": "10:30",
+          "mode": "drive"
+        },
+        {
+          "placeId": "jiemeihu",
+          "arrival": "11:00",
+          "departure": "11:30",
+          "mode": "drive"
+        },
+        {
+          "placeId": "litang",
+          "arrival": "14:00",
+          "departure": "15:00",
+          "mode": "drive"
+        },
+        {
+          "placeId": "yajiang",
+          "arrival": "18:00",
+          "departure": "20:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "雅江县城（酒店待定位）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "litang",
+      "note": "保留姊妹湖向西往返，再回理塘向东到雅江；原表分段驾驶合计8小时07分，未算游览、休息和道路变化。未定位节点的相邻路径断开。"
+    },
+    {
+      "id": "day-5",
+      "date": "2026-11-04",
+      "title": "雅江 → 塔公 → 四姑娘山",
+      "shortTitle": "塔公",
+      "stops": [
+        {
+          "placeId": "yajiang",
+          "arrival": "08:00",
+          "departure": "08:20",
+          "mode": "drive"
+        },
+        {
+          "placeId": "tagong",
+          "arrival": "10:30",
+          "departure": "11:30",
+          "mode": "drive"
+        },
+        {
+          "placeId": "rilong",
+          "arrival": "17:00",
+          "departure": "20:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "四姑娘山镇（日隆，酒店待定位）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "tagong",
+      "note": "原表驾驶预算6小时53分；不把地图虚线当实际道路，不宣称已导航验证。"
+    },
+    {
+      "id": "day-6",
+      "date": "2026-11-05",
+      "title": "双桥沟全天",
+      "shortTitle": "双桥沟",
+      "stops": [
+        {
+          "placeId": "rilong",
+          "arrival": "07:30",
+          "departure": "08:00",
+          "mode": "drive"
+        },
+        {
+          "placeId": "shuangqiao-ref",
+          "arrival": "08:30",
+          "departure": "08:40",
+          "mode": "mixed"
+        },
+        {
+          "placeId": "shuangqiaogou",
+          "arrival": "09:00",
+          "departure": "16:00",
+          "mode": "mixed"
+        },
+        {
+          "placeId": "rilong",
+          "arrival": "17:00",
+          "departure": "20:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "四姑娘山镇（日隆，酒店待定位）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "shuangqiao-ref",
+      "note": "双桥地名点仅单列参考，景区内部预报仍为空缺；红杉林与镇区有明显高差。未把漂流视为必然开放。"
+    },
+    {
+      "id": "day-7",
+      "date": "2026-11-06",
+      "title": "四姑娘山 → 理小路 → 红原 → 九寨沟",
+      "shortTitle": "红原",
+      "stops": [
+        {
+          "placeId": "rilong",
+          "arrival": "07:00",
+          "departure": "07:15",
+          "mode": "drive"
+        },
+        {
+          "placeId": "lixiaolu",
+          "arrival": "08:00",
+          "departure": "10:00",
+          "mode": "drive"
+        },
+        {
+          "placeId": "hongyuan",
+          "arrival": "13:00",
+          "departure": "13:30",
+          "mode": "drive"
+        },
+        {
+          "placeId": "zhangzha",
+          "arrival": "19:00",
+          "departure": "20:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "九寨沟沟口附近（漳扎镇，酒店待定位）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "hongyuan",
+      "note": "理小路入口、出口待确认；保留原计划经过红原，不添加毕棚沟。原表驾驶已8小时50分且起点口径不完整，不把假定时刻当行车承诺。"
+    },
+    {
+      "id": "day-8",
+      "date": "2026-11-07",
+      "title": "九寨沟全天",
+      "shortTitle": "九寨沟",
+      "stops": [
+        {
+          "placeId": "zhangzha",
+          "arrival": "07:30",
+          "departure": "08:00",
+          "mode": "drive"
+        },
+        {
+          "placeId": "shuzheng",
+          "arrival": "10:00",
+          "departure": "11:00",
+          "mode": "mixed"
+        },
+        {
+          "placeId": "jiuzhai-scenic",
+          "arrival": "11:30",
+          "departure": "16:00",
+          "mode": "mixed"
+        },
+        {
+          "placeId": "zhangzha",
+          "arrival": "17:00",
+          "departure": "20:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "九寨沟沟口附近（漳扎镇，酒店待定位）",
+      "lodgingType": "lodge",
+      "focusPlaceId": "shuzheng",
+      "note": "树正参考点的到访时间只是采样假设，不冻结你的景区游览顺序；高处景点与整个景区预报不由此替代。"
+    },
+    {
+      "id": "day-9",
+      "date": "2026-11-08",
+      "title": "九寨沟 → 天府机场",
+      "shortTitle": "天府机场",
+      "stops": [
+        {
+          "placeId": "zhangzha",
+          "arrival": "07:00",
+          "departure": "07:30",
+          "mode": "drive"
+        },
+        {
+          "placeId": "tianfu",
+          "arrival": "16:00",
+          "departure": "18:00",
+          "mode": "drive"
+        }
+      ],
+      "hikeHours": null,
+      "hikeKm": null,
+      "budgetBasis": "无GPX，无可靠徒步统计；所有时刻仅为天气匹配规划假设，不作为实际车程或徒步承诺。",
+      "lodging": "返程（航班、还车时间待确认）",
+      "lodgingType": "none",
+      "focusPlaceId": "tianfu",
+      "note": "机场采样时刻是假设；未提供航班，不依据此表判断能否赶上飞机。"
+    }
+  ]
+}

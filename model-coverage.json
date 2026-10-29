@@ -1,0 +1,1436 @@
+{
+  "ecmwf_ifs025": {
+    "chengdu": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "jiagenba": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "xinduqiao": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "yajiang": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "litang": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "daocheng": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "yading": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "tagong": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "rilong": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "shuangqiao-ref": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "hongyuan": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "zhangzha": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "shuzheng": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    },
+    "tianfu": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T22:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-11T20:00"
+      }
+    }
+  },
+  "gfs_seamless": {
+    "chengdu": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "jiagenba": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "xinduqiao": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "yajiang": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "litang": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "daocheng": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "yading": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "tagong": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "rilong": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "shuangqiao-ref": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "hongyuan": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "zhangzha": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "shuzheng": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    },
+    "tianfu": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-12T23:00"
+      }
+    }
+  },
+  "icon_global": {
+    "chengdu": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "jiagenba": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "xinduqiao": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "yajiang": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "litang": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "daocheng": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "yading": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "tagong": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "rilong": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "shuangqiao-ref": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "hongyuan": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "zhangzha": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "shuzheng": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    },
+    "tianfu": {
+      "temperature_2m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "apparent_temperature": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "precipitation": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_speed_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "wind_gusts_10m": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "cloud_cover": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "snowfall": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      },
+      "weather_code": {
+        "first": "2026-10-28T00:00",
+        "last": "2026-11-04T20:00"
+      }
+    }
+  }
+}

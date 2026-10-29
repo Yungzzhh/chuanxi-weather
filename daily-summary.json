@@ -1,0 +1,680 @@
+[
+  {
+    "dayId": "day-1",
+    "date": "2026-10-31",
+    "itinerary": "成都 → 甲根坝",
+    "placeId": "jiagenba",
+    "referencePlace": "甲根坝",
+    "coordinateNote": "GeoNames甲根坝地名采样点；未取得你的民宿定位，不代表整片河谷、民宿或山口。",
+    "leadDays": 3,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 0.6,
+        "temperatureMax": 20.0,
+        "precipitationSum": 0.0,
+        "gustMax": 8.5,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 3.5,
+        "temperatureMax": 18.7,
+        "precipitationSum": 0.0,
+        "gustMax": 3.8,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 6.3,
+        "temperatureMax": 18.8,
+        "precipitationSum": 0.0,
+        "gustMax": 10.6,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "dayId": "day-2",
+    "date": "2026-11-01",
+    "itinerary": "甲根坝 → 新都桥 → 香格里拉镇",
+    "placeId": "xinduqiao",
+    "referencePlace": "新都桥",
+    "coordinateNote": "新都桥镇地名坐标，不代表折多山等沿途高处。",
+    "leadDays": 4,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 3.0,
+        "temperatureMax": 18.9,
+        "precipitationSum": 0.6,
+        "gustMax": 10.2,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2,
+          3,
+          51
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 3.3,
+        "temperatureMax": 17.3,
+        "precipitationSum": 0.0,
+        "gustMax": 6.1,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 1.8,
+        "temperatureMax": 18.9,
+        "precipitationSum": 0.0,
+        "gustMax": 9.9,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "dayId": "day-3",
+    "date": "2026-11-02",
+    "itinerary": "亚丁全天 → 稻城县城",
+    "placeId": "yading",
+    "referencePlace": "亚丁村地名点",
+    "coordinateNote": "GeoNames亚丁地名坐标，位于稻城亚丁区域；只供村落区域参考，不代表冲古寺、洛绒牛场、牛奶海或五色海。",
+    "leadDays": 5,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": -2.1,
+        "temperatureMax": 12.7,
+        "precipitationSum": 0.0,
+        "gustMax": 14.8,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": -0.3,
+        "temperatureMax": 11.6,
+        "precipitationSum": 0.0,
+        "gustMax": 5.6,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 2.0,
+        "temperatureMax": 13.9,
+        "precipitationSum": 0.0,
+        "gustMax": 16.6,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "dayId": "day-4",
+    "date": "2026-11-03",
+    "itinerary": "稻城 → 毛娅大草原 → 姊妹湖 → 理塘 → 雅江",
+    "placeId": "litang",
+    "referencePlace": "理塘·高城镇",
+    "coordinateNote": "理塘县城高城镇地名点；不是毛垭草原、海子山或姊妹湖。",
+    "leadDays": 6,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 0.0,
+        "temperatureMax": 5.7,
+        "precipitationSum": 1.8,
+        "gustMax": 8.4,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2,
+          51
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 0.9,
+        "temperatureMax": 9.8,
+        "precipitationSum": 0.0,
+        "gustMax": 7.0,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": -1.6,
+        "temperatureMax": 12.7,
+        "precipitationSum": 0.0,
+        "gustMax": 15.1,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "dayId": "day-5",
+    "date": "2026-11-04",
+    "itinerary": "雅江 → 塔公 → 四姑娘山",
+    "placeId": "tagong",
+    "referencePlace": "塔公",
+    "coordinateNote": "采用康定新都桥以北塔公地名点，已排除甘孜州西侧另一同名点。",
+    "leadDays": 7,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": -2.0,
+        "temperatureMax": 11.9,
+        "precipitationSum": 0.0,
+        "gustMax": 9.5,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 3.3,
+        "temperatureMax": 10.1,
+        "precipitationSum": 0.9,
+        "gustMax": 2.5,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          3,
+          51
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 21,
+          "apparent_temperature": 21,
+          "precipitation": 21,
+          "wind_speed_10m": 21,
+          "wind_gusts_10m": 21,
+          "cloud_cover": 21,
+          "snowfall": 21,
+          "weather_code": 21
+        },
+        "weatherCodes": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "dayId": "day-6",
+    "date": "2026-11-05",
+    "itinerary": "双桥沟全天",
+    "placeId": "shuangqiao-ref",
+    "referencePlace": "双桥地名点",
+    "coordinateNote": "GeoNames小金县附近双桥聚落地名点；作为单列参考坐标，不等同双桥沟全沟或红杉林。",
+    "leadDays": 8,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 1.3,
+        "temperatureMax": 15.4,
+        "precipitationSum": 0.0,
+        "gustMax": 15.3,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0,
+          1
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 4.1,
+        "temperatureMax": 6.1,
+        "precipitationSum": 17.4,
+        "gustMax": 1.5,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          51,
+          53,
+          80
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 0,
+          "apparent_temperature": 0,
+          "precipitation": 0,
+          "wind_speed_10m": 0,
+          "wind_gusts_10m": 0,
+          "cloud_cover": 0,
+          "snowfall": 0,
+          "weather_code": 0
+        },
+        "weatherCodes": []
+      }
+    ]
+  },
+  {
+    "dayId": "day-7",
+    "date": "2026-11-06",
+    "itinerary": "四姑娘山 → 理小路 → 红原 → 九寨沟",
+    "placeId": "hongyuan",
+    "referencePlace": "红原·邛溪镇",
+    "coordinateNote": "红原县城邛溪镇地名点；不代表理小路垭口或沿途路面温度。",
+    "leadDays": 9,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": -2.0,
+        "temperatureMax": 13.1,
+        "precipitationSum": 0.0,
+        "gustMax": 13.6,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          0
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": -0.5,
+        "temperatureMax": 9.3,
+        "precipitationSum": 2.7,
+        "gustMax": 6.8,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          2,
+          3,
+          51,
+          53
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 0,
+          "apparent_temperature": 0,
+          "precipitation": 0,
+          "wind_speed_10m": 0,
+          "wind_gusts_10m": 0,
+          "cloud_cover": 0,
+          "snowfall": 0,
+          "weather_code": 0
+        },
+        "weatherCodes": []
+      }
+    ]
+  },
+  {
+    "dayId": "day-8",
+    "date": "2026-11-07",
+    "itinerary": "九寨沟全天",
+    "placeId": "shuzheng",
+    "referencePlace": "九寨沟·树正地名点",
+    "coordinateNote": "GeoNames树正地名采样坐标；范围和精度以原始地名库为准，不代表长海、五彩池等高处，不作为精确导航点。",
+    "leadDays": 10,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 4.1,
+        "temperatureMax": 9.0,
+        "precipitationSum": 1.5,
+        "gustMax": 6.8,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          2,
+          3,
+          51
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 5.4,
+        "temperatureMax": 10.3,
+        "precipitationSum": 2.4,
+        "gustMax": 2.5,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          3,
+          45,
+          51,
+          53
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 0,
+          "apparent_temperature": 0,
+          "precipitation": 0,
+          "wind_speed_10m": 0,
+          "wind_gusts_10m": 0,
+          "cloud_cover": 0,
+          "snowfall": 0,
+          "weather_code": 0
+        },
+        "weatherCodes": []
+      }
+    ]
+  },
+  {
+    "dayId": "day-9",
+    "date": "2026-11-08",
+    "itinerary": "九寨沟 → 天府机场",
+    "placeId": "tianfu",
+    "referencePlace": "成都天府国际机场",
+    "coordinateNote": "机场地名坐标，不表示航班或还车时间已经确认。",
+    "leadDays": 11,
+    "models": [
+      {
+        "modelId": "ecmwf_ifs025",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 11.7,
+        "temperatureMax": 16.7,
+        "precipitationSum": 3.0,
+        "gustMax": 9.8,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          3,
+          51
+        ]
+      },
+      {
+        "modelId": "gfs_seamless",
+        "coverageHours": {
+          "temperature_2m": 24,
+          "apparent_temperature": 24,
+          "precipitation": 24,
+          "wind_speed_10m": 24,
+          "wind_gusts_10m": 24,
+          "cloud_cover": 24,
+          "snowfall": 24,
+          "weather_code": 24
+        },
+        "temperatureMin": 16.1,
+        "temperatureMax": 19.0,
+        "precipitationSum": 0.9,
+        "gustMax": 3.9,
+        "snowfallSum": 0.0,
+        "weatherCodes": [
+          3,
+          51
+        ]
+      },
+      {
+        "modelId": "icon_global",
+        "coverageHours": {
+          "temperature_2m": 0,
+          "apparent_temperature": 0,
+          "precipitation": 0,
+          "wind_speed_10m": 0,
+          "wind_gusts_10m": 0,
+          "cloud_cover": 0,
+          "snowfall": 0,
+          "weather_code": 0
+        },
+        "weatherCodes": []
+      }
+    ]
+  }
+]
